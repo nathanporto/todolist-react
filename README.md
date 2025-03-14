@@ -1,12 +1,18 @@
-# React + Vite
+ToDo List com React
+Bem-vindo ao repositório da ToDo List feita com React! Este projeto é uma aplicação simples, porém poderosa, para gerenciar suas tarefas diárias de forma eficiente. Com um design responsivo e funcionalidades intuitivas, você pode adicionar tarefas rapidamente pressionando a tecla Enter, tornando a experiência de uso fluida e agradável.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Funcionalidades
+Adicionar Tarefas: Digite sua tarefa e pressione Enter para adicioná-la à lista.
 
-Currently, two official plugins are available:
+Design Responsivo: A aplicação se adapta a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Interface Simples e Intuitiva: Focamos em uma interface limpa e fácil de usar, para que você possa se concentrar no que realmente importa: suas tarefas!
 
-## Expanding the ESLint configuration
+🛠️ Tecnologias Utilizadas
+React: Biblioteca JavaScript para construção de interfaces de usuário.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+CSS: Para estilização e responsividade da aplicação.
+
+HTML: Estrutura básica da aplicação.
+
+Deploy: https://todolist-react-omega-two.vercel.app/
